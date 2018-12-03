@@ -1,6 +1,6 @@
 # cloudify_library
 This library uses the cloudify client to test some of the functions of cloudify manager (version 4.3.1)
-This has been tested in Ubuntu 14.04 platform using python virtualenv.
+This has been tested in Ubuntu 14.04 platform using python virtualenv 16.1.0
 
 Please follow the below steps to test the library:
 
@@ -42,10 +42,10 @@ $cd cloudify_library
 ```
 
 ## Step6:
-Update the cloudify manager details in the **config.py** file
+Update the cloudify manager details in the **config.py** file.
 Run the test code as below:
 ```
 $python test_cfy_library.py > output_dec4.txt
 ```
 
-The output file is output_dec4.txt is shared here for reference along with the cloudfiy manager GUI screenshot. 
+The output file output_dec4.txt is shared here for reference along with the cloudfiy manager GUI screenshot. 
