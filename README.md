@@ -21,7 +21,7 @@ $virtualenv cloudifyclient_venv
 Activate the venv:
 ```
 $source cloudifyclient_venv/bin/activate
-$cd cloudifyclient
+$cd cloudifyclient_venv
 ```
 
 ## Step4:
@@ -32,7 +32,7 @@ $pip install prettytable
 $pip install cloudify
 $sudo pip install cloudify_rest_client
 ```
-This installed cloudify-rest-client verion is 4.3.3
+This installed cloudify-rest-client verion is 4.3.3. The list of all installed packages can be found here(/pip_installed_packages.JPG)
 
 ## Step5:
 Clone this cloudify_library repo
@@ -48,4 +48,4 @@ Run the test code as below:
 $python test_cfy_library.py > output_dec4.txt
 ```
 
-The output file output_dec4.txt is shared here for reference along with the cloudfiy manager GUI screenshot. 
+The output file output_dec4.txt is shared here for reference and also the test_blueprint_uploaded_GUI_Dec4.JPG GUI screenshot. 
