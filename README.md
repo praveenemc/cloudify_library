@@ -32,7 +32,7 @@ $pip install prettytable
 $pip install cloudify
 $sudo pip install cloudify_rest_client
 ```
-This installed cloudify-rest-client verion is 4.3.3. The list of all installed packages can be found here(/pip_installed_packages.JPG)
+This installed cloudify-rest-client verion is 4.3.3. The list of all installed packages can be found [here](/pip_installed_packages.JPG)
 
 ## Step5:
 Clone this cloudify_library repo
