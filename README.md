@@ -48,4 +48,4 @@ Run the test code as below:
 $python test_cfy_library.py > output_dec4.txt
 ```
 
-The output file output_dec4.txt is shared here for reference and also the test_blueprint_uploaded_GUI_Dec4.JPG GUI screenshot. 
+The output file output_dec4.txt is shared here for reference and also the test_blueprint_uploaded_GUI_Dec4.JPG GUI screenshot :smile:
